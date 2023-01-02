@@ -1,12 +1,12 @@
 /* Color scheme: https://colorhunt.co/palette/b7c4cfeee3cbd7c0ae967e76 */
-div {
-    background-color: #B7C4CF;
-}
-
 body {
-    margin: 0px;
+    margin: 0;
 }
 
 h1 {
-    margin: 0px;
+    margin-top: 0;
+}
+
+div {
+    background-color: #B7C4CF;
 }
