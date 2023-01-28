@@ -3,7 +3,7 @@ body {
     margin: 0;
     text-align: center;
     /* most desired font -> more generic */
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: Tahoma, Verdana, sans-serif;
 }
 
 h1 {
@@ -17,11 +17,9 @@ h1 {
     padding-top: 100px;
 }
 
-.middle-container {
-}
+.middle-container {}
 
-.bottom-container {
-}
+.bottom-container {}
 
 .top-cloud {
     position: absolute;
