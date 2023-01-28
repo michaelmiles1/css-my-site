@@ -2,6 +2,8 @@
 body {
     margin: 0;
     text-align: center;
+    /* most desired font -> more generic */
+    font-family: Helvetica, Arial, sans-serif;
 }
 
 h1 {
