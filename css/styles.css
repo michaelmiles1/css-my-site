@@ -36,6 +36,21 @@ h3 {
 .skill-row {
     width: 50%;
     margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.dev-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+
+.drive-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
 }
 
 .top-cloud {
