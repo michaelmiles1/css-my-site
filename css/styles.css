@@ -9,18 +9,50 @@ body {
 h1 {
     margin: 50px auto 0 auto;
     font-size: 5rem;
-    color: #3388ff;
+    color: #65a2f8;
+    line-height: 150%;
 }
 
 h2 {
     font-size: 2.5rem;
     font-weight: normal;
-    color: #3388ff;
+    color: #65a2f8;
 }
 
 h3 {
-    color: #3388ff;
+    color: #3575f6;
 }
+
+a {
+    color: #3575f6;
+}
+
+.btn {
+    background: #75a3ff;
+    background-image: -webkit-linear-gradient(top, #75a3ff, #3575f6);
+    background-image: -moz-linear-gradient(top, #75a3ff, #3575f6);
+    background-image: -ms-linear-gradient(top, #75a3ff, #3575f6);
+    background-image: -o-linear-gradient(top, #75a3ff, #3575f6);
+    background-image: linear-gradient(to bottom, #75a3ff, #3575f6);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #87b7fa;
+    background-image: -webkit-linear-gradient(top, #87b7fa, #61a3ff);
+    background-image: -moz-linear-gradient(top, #87b7fa, #61a3ff);
+    background-image: -ms-linear-gradient(top, #87b7fa, #61a3ff);
+    background-image: -o-linear-gradient(top, #87b7fa, #61a3ff);
+    background-image: linear-gradient(to bottom, #87b7fa, #61a3ff);
+    text-decoration: none;
+  }
 
 .top-container {
     background-color: #B7C4CF;
